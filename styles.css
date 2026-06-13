@@ -59,3 +59,13 @@ input {
     padding: 8px;
     border-radius: 8px;
 }
+.character {
+    width: 300px;
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 24px;
+    object-fit: cover;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.5);
+}
