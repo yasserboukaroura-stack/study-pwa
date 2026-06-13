@@ -1,0 +1,15 @@
+{
+  "name": "Study Mommy Pro",
+  "short_name": "MommyStudy",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#12121c",
+  "theme_color": "#12121c",
+  "icons": [
+    {
+      "src": "assets/character.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
